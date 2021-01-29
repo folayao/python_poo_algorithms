@@ -28,3 +28,20 @@ if __name__ == "__main__":
     print(f'El elemento {objetivo} {"esta" if {encontrado} else "no esta"} en la lista ')
 ~~~
 
+# Busqueda Binaria
+
+* Divide y conquista
+* el problema se divine en 2 en cada iteracion
+* ¿Cual es el peor caso?
+
+
+# Ordenamiento Burbuja
+
+Es un algoritmo que repite repetidamente una lista que necesita ordenarse. Compara elementos adyacentes y los intercambia si estan en el orden incorrecto. este procedimiento se repite hasta que no se requieren mas intercambios , lo que indica que la lista se encuentra ordenada
+
+# Merge Sort
+
+Divide y conquista
+
+El ordenamiento por mezcla es un algoritmo que divide y conquista. Primero divide una lista en partes iguales hasta que queden sublistas de 1 a 0 elementos. luego las recombina de forma ordenada.
+
